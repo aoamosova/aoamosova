@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😄
 <div align="center">
   <img src="./dev.gif" width="500"/>
 </div>
