@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-  <img src="./dev.gif" width="600"/>
+  <img src="./dev.gif" width="800"/>
 </div>
 
 
