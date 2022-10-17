@@ -5,6 +5,7 @@
 
 #### 🤍 About me:
 I am a practitioner, I am attracted by mistakes, through them I study a subject or a product. Thanks to this, I will tell you how to "not do it" and how to make it work, I see bottlenecks, I offer optimization options.
+
 Я практик, меня манят ошибки, через них я изучаю предмет или продукт. Благодаря этому расскажу как "не надо делать" и как сделать так чтобы заработало, вижу узкие места, предлагаю варианты оптимизации.
 
 #### Mainstream technology stack:
